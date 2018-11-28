@@ -1,4 +1,12 @@
+## Personalized React App with Typescript, Sass, and Polaris
+
+**Starter app generates the following layout:**
+
+<kbd>![Alt text](https://user-images.githubusercontent.com/22782157/49128776-df4c3900-f29a-11e8-8957-880f34b51720.png)</kbd>
+
 ## Development
+
+👋 Remember to initially run `npm install` to generate `node_modules`
 
 - Run the app with `npm start` and visit [http://localhost:3000](http://localhost:3000)
 - Build for production with `npm run build`
