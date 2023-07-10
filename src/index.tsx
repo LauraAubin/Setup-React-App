@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
-import '@shopify/polaris/styles.css';
+import '@shopify/polaris/build/esm/styles.css';
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
